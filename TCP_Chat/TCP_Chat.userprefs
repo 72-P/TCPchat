@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5B8DE744-6502-47A1-907B-CE2972E0F6A0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TCP_Chat/Program.cs">
+    <Files>
+      <File FileName="TCP_Chat/Program.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TCP__Chat PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
